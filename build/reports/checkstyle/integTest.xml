@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.32">
+<file name="/Users/mhertdacoreg/workdir/spring-security-samples/servlet/java-configuration/hello-security-explicit/src/integTest/java/example/HelloWorldTests.java">
+</file>
+<file name="/Users/mhertdacoreg/workdir/spring-security-samples/servlet/java-configuration/hello-security-explicit/src/integTest/java/example/pages/HomePage.java">
+</file>
+<file name="/Users/mhertdacoreg/workdir/spring-security-samples/servlet/java-configuration/hello-security-explicit/src/integTest/java/example/pages/LoginPage.java">
+</file>
+</checkstyle>
